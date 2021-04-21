@@ -5,4 +5,4 @@
 
 一个不停探索的人
 
-![piexlmax's github stats](https://github-readme-stats.vercel.app/api?username=zhtql&show_icons=true&theme=radical)
+![piexlmax's github stats](https://github-readme-stats.vercel.app/api?username=zhxqc&show_icons=true&theme=radical)
