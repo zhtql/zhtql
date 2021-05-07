@@ -14,9 +14,6 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=zhxqc&theme=react-dark)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=zhxqc&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ## Thank you for the visit.
 
 ![](http://profile-counter.glitch.me/zhxqc/count.svg)
