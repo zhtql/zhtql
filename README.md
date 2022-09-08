@@ -9,9 +9,6 @@
 
 ![piexlmax's github stats](https://github-readme-stats.vercel.app/api?username=zhxqc&show_icons=true&theme=radical)
 
-
-![](https://activity-graph.herokuapp.com/graph?username=zhxqc&theme=react-dark)
-
 ## Thank you for the visit.
 
 ![](http://profile-counter.glitch.me/zhxqc/count.svg)
