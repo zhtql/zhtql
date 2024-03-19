@@ -1,9 +1,6 @@
 ### Hi there 我是远方，被发现啦 👋✌️
 
-
 技术为主，多读书，做个终身学习者。
-
-- 🍓 个人博客：https://www.showydream.com
 
 ## My Github Status 👨‍💻‍
 
